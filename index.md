@@ -10,7 +10,7 @@ Volumen 1
 
 Números:
 
-###### ![Octocat](https://RevistaVector.github.io/imag/portadas/n1) N° 1 - [La ciencia de la pandemia](https://drive.google.com/file/d/1rPdOwJV2BwTmLj3W-jcYHi2TNaSbEXGY/view?usp=sharing).
+###### ![V1N1](assets/img/portadas/n1.png) N° 1 - [La ciencia de la pandemia](https://drive.google.com/file/d/1rPdOwJV2BwTmLj3W-jcYHi2TNaSbEXGY/view?usp=sharing).
 
 ### Sobre la iniciativa y el equipo:
 
