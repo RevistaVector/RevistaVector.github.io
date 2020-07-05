@@ -2,4 +2,4 @@
 
 ## La revista de divulgación científica y tecnológica.
 
-![circulogo](imagenes/circulogo10mm.png)
+![circulogo](imag/circulogo10mm.png)
