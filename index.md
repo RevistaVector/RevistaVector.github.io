@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-|Contenidos |
-|-----------|
-|[Revista Vector](#revista-vector) |
-|[Podcasts](#podcasts) |
+### Contenidos
+|Explorar|
+|--------|
+|[Revista Vector](#revista-vector)|
+|[Podcasts](#podcasts)|
 
 ---
 
