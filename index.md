@@ -31,8 +31,8 @@ Proximamente..
 
 ##### Volver al inicio: [Contenidos](#contenidos)
 ---
-## Nosotros
-#### La iniciativa y el equipo
+# Nosotros
+## La iniciativa y el equipo
 
 Proyecto Vector es una iniciativa didáctica con el fin de dinamizar la relación entre la sociedad y el mundo de la investigación. Queremos comunicar el desarrollo científico y tecnológico del país de forma rigurosa y comprensible. 
 
@@ -41,7 +41,7 @@ Somos un equipo comprometido y dinámico que sueña con llegar a ser referentes 
 Muchas gracias
 Equipo Proyecto Vector
 
-#### Los creadores
+## Los creadores
 
 
 ---
