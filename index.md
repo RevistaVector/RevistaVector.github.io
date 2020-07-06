@@ -10,7 +10,7 @@ Volumen 1
 
 Números:
 
-###### ![V1N1](assets/img/portadas/n1.png) N° 1 - [La ciencia de la pandemia](https://drive.google.com/file/d/1rPdOwJV2BwTmLj3W-jcYHi2TNaSbEXGY/view?usp=sharing).
+###### [![V1N1](assets/img/numeros/V1N1.png)](https://drive.google.com/file/d/1rPdOwJV2BwTmLj3W-jcYHi2TNaSbEXGY/view?usp=sharing).
 
 ### Sobre la iniciativa y el equipo:
 
