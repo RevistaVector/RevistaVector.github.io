@@ -19,7 +19,7 @@ Números:
 ¡Más contenido proximamente!
 
 
-Volver al inicio: [Contenidos](#contenidos)
+##### Volver al inicio: [Contenidos](#contenidos)
 ---
 
 # Podcasts
@@ -29,7 +29,7 @@ Volver al inicio: [Contenidos](#contenidos)
 ¡Más contenido proximamente!
 
 
-Volver al inicio: [Contenidos](#contenidos)
+##### Volver al inicio: [Contenidos](#contenidos)
 ---
 # Nosotros
 ## La iniciativa y el equipo
