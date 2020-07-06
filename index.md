@@ -34,11 +34,12 @@ Proximamente..
 # Nosotros
 ## La iniciativa y el equipo
 
-Proyecto Vector es una iniciativa didáctica con el fin de dinamizar la relación entre la sociedad y el mundo de la investigación. Queremos comunicar el desarrollo científico y tecnológico del país de forma rigurosa y comprensible. 
+Proyecto Vector es una iniciativa didáctica con el fin de dinamizar el intercambio entre la investigación científica y el resto de sociedad. Queremos comunicar el desarrollo científico y tecnológico del país de forma rigurosa y comprensible. Por último nos interesa presentar a quienes investigan día a día, en especial a los estudiantes de doctorado, postdoc e investigadores jóvenes del país.  
 
 Somos un equipo comprometido y dinámico que sueña con llegar a ser referentes en comunicación científica Argentina. Queremos llegar a la sociedad completa, por eso trabajamos en la difusión federal de nuestros contenidos, y en crear material inclusivo. Podes ayudarnos a cumplir nuestro objetivo compartiendo nuestro trabajo. 
 
-Muchas gracias
+Muchas gracias.
+El Equipo
 
 
 ## Los creadores del Proyecto Vector
