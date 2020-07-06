@@ -18,14 +18,14 @@ Números:
 Proximamente..
 
 
-##### Volver al inicio: [**Contenidos**](#contenidos)
+##### Volver al inicio: [Contenidos](#contenidos)
 ---
 
 # Podcasts
 Proximamente..
 
 
-##### Volver al inicio: [**Contenidos**](#contenidos)
+##### Volver al inicio: [Contenidos](#contenidos)
 ---
 ### Sobre la iniciativa y el equipo
 
@@ -39,4 +39,5 @@ Revista Vector es una iniciativa didáctica con el fin de dinamizar la relación
 
 
 ---
-Volver al inicio: [**Contenidos**](#contenidos)
+---
+Volver al inicio: [Contenidos](#contenidos)
