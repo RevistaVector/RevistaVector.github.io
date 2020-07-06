@@ -34,8 +34,10 @@ Proximamente..
 ## Nosotros
 #### La iniciativa y el equipo
 
-Revista Vector es una iniciativa didáctica con el fin de dinamizar la relación entre la sociedad y el mundo de la investigación. Queremos comunicar el desarrollo científico y tecnológico del país de forma rigurosa y comprensible. 
-Somos un equipo comprometido y dinámico que sueña con llegar a ser referentes en comunicación científica Argentina. Queremos llegar a la sociedad completa, por eso trabajamos en la difusión federal de nuestros contenidos, y en crear material inclusivo. Podes ayudarnos a cumplir nuestro objetivo difundiéndo nuestro trabajo. 
+Proyecto Vector es una iniciativa didáctica con el fin de dinamizar la relación entre la sociedad y el mundo de la investigación. Queremos comunicar el desarrollo científico y tecnológico del país de forma rigurosa y comprensible. 
+
+Somos un equipo comprometido y dinámico que sueña con llegar a ser referentes en comunicación científica Argentina. Queremos llegar a la sociedad completa, por eso trabajamos en la difusión federal de nuestros contenidos, y en crear material inclusivo. Podes ayudarnos a cumplir nuestro objetivo compartiendo nuestro trabajo. 
+
 Muchas gracias,
 Equipo Proyecto Vector
 
