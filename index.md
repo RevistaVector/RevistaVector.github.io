@@ -9,6 +9,7 @@ layout: default
 Volumen 1
 
 Números:
+###### ![n1](assets/img/portadas/n1.png)
 
 ###### [![V1N1](assets/img/numeros/V1N1.png)](https://drive.google.com/file/d/1rPdOwJV2BwTmLj3W-jcYHi2TNaSbEXGY/view?usp=sharing).
 ###### (Para leer y descargar tocá la portada o entrá por [acá](https://drive.google.com/file/d/1rPdOwJV2BwTmLj3W-jcYHi2TNaSbEXGY/view?usp=sharing))
