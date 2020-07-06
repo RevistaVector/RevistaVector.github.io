@@ -4,7 +4,7 @@ layout: default
 
 # Revista Vector
 
-## La revista de divulgación científica y tecnológica Argnetina.
+## La revista de divulgación científica y tecnológica Argentina.
 
 Volumen 1
 
